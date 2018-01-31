@@ -1,0 +1,1 @@
+var ctrl = angular.module('admin.services', []);
